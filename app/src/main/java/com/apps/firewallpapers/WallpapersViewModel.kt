@@ -38,7 +38,14 @@ class WallpapersViewModel: ViewModel(){
                     //No data left to load
                 }else{
                     //Results are ready to load
-                    wallpapersList.value = result.toObjects(WallpapersModel::class.java)
+
+                    if(wallpapersList.value==null){
+                        //Loading first page
+                        wallpapersList.value = result.toObjects(WallpapersModel::class.java)
+                    }else{
+                        //Loading next page
+                        wallpapersList.value = wallpapersList.value!!.plus(result.toObjects(WallpapersModel::class.java))
+                    }
 
                     //Getting the last item
                     val lastItem: DocumentSnapshot = result.documents[result.size()-1]

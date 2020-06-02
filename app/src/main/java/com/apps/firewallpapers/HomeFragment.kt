@@ -9,7 +9,6 @@ import android.view.ViewGroup
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.viewModels
 import androidx.lifecycle.Observer
-import androidx.lifecycle.ViewModel
 import androidx.navigation.NavController
 import androidx.navigation.Navigation
 import androidx.recyclerview.widget.GridLayoutManager
@@ -98,7 +97,11 @@ class HomeFragment : Fragment(), (WallpapersModel) -> Unit {
     }
 
     override fun invoke(wallpaper: WallpapersModel) {
-        //Clicked on wallpaper item from the list
+        //Clicked on wallpaper Item from the list, Navigate to details fragment
+        Log.d("HOME_FRAMGNE_LOG", "Clicked on Item : ${wallpaper.name}")
+
+        val action = HomeFragmentDirections.actionHomeFragmentToDetailFragment(wallpaper.image)
+        navController!!.navigate(action)
 
     }
 

@@ -43,7 +43,7 @@
         tools:layout="@layout/fragment_detail">
         <argument
             android:name="wallpaperImage"
-            android:defaultValue="null"
-            app:argType="string" />
+            app:argType="string"
+            android:defaultValue="null" />
     </fragment>
 </navigation>

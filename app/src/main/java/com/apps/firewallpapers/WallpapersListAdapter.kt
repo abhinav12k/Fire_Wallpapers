@@ -51,7 +51,7 @@ class WallpapersListAdapter(var wallpapersList: List<WallpapersModel>, private v
 
             //Click Listener
             itemView.setOnClickListener {
-                clickListener
+                clickListener(wallpapers)
             }
         }
 

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "200100364226",
+    "firebase_url": "https://fire-wallpapers-b657b.firebaseio.com",
+    "project_id": "fire-wallpapers-b657b",
+    "storage_bucket": "fire-wallpapers-b657b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200100364226:android:acaa2c020efcbe5e0ca05b",
+        "android_client_info": {
+          "package_name": "com.apps.firewallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200100364226-lrfg45nlg6fk87qa65akj4s87acntec2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apps.firewallpapers",
+            "certificate_hash": "6e0bf9f72d057934455cb84b35b76bd527d28c99"
+          }
+        },
+        {
+          "client_id": "200100364226-0r13o6s0vj2hm8bp2rs8h3uc6bdi9o97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtHI0lbpDrQ0yeXx5Ta7OyOsogEvk36aU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200100364226-0r13o6s0vj2hm8bp2rs8h3uc6bdi9o97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

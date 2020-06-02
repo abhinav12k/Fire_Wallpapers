@@ -9,7 +9,7 @@
 
         <!--status bar and navigation bar colors-->
         <item name="android:statusBarColor">@color/colorBackground</item>
-        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightStatusBar">false</item>
 
         <item name="android:navigationBarColor">@color/colorBackground</item>
     </style>

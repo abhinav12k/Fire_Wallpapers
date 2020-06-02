@@ -20,7 +20,7 @@ class FirebaseRepository{
     private val firebaseFirestore: FirebaseFirestore = FirebaseFirestore.getInstance()
 
     //For implementing pagination
-    private var lastVisible : DocumentSnapshot? =null
+    var lastVisible : DocumentSnapshot? =null
     private val pageSize: Long = 6
 
     // function to check whether the user is logged in/not

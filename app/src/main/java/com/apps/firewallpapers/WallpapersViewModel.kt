@@ -4,6 +4,7 @@ import android.util.Log
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
+import com.google.firebase.firestore.DocumentSnapshot
 
 /**
  * Created by abhinav on 2/6/20.
@@ -38,6 +39,11 @@ class WallpapersViewModel: ViewModel(){
                 }else{
                     //Results are ready to load
                     wallpapersList.value = result.toObjects(WallpapersModel::class.java)
+
+                    //Getting the last item
+                    val lastItem: DocumentSnapshot = result.documents[result.size()-1]
+                    firebaseRepository.lastVisible = lastItem
+
                 }
 
             }else{

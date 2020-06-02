@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/list_single_image"
+        android:layout_width="0dp"
+        android:layout_height="256dp"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginEnd="2dp"
+        android:layout_marginBottom="2dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:srcCompat="@color/colorBackground" />
+
+    <ProgressBar
+        android:id="@+id/list_single_progress"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:indeterminateOnly="true"
+        android:indeterminateTint="@color/colorText"
+        app:layout_constraintBottom_toBottomOf="@+id/list_single_image"
+        app:layout_constraintEnd_toEndOf="@+id/list_single_image"
+        app:layout_constraintStart_toStartOf="@+id/list_single_image"
+        app:layout_constraintTop_toTopOf="@+id/list_single_image" />
+</androidx.constraintlayout.widget.ConstraintLayout>

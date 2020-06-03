@@ -4,7 +4,7 @@ As the name suggests it's a wallpaper app to view and set the wallpapers on your
 # Features:
 * Simplistic UI
 * High definition wallpapers
-* Night Mode
+* Dark Mode
 * Easy to use
 
 # Project Created & Maintained By

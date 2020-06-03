@@ -16,10 +16,10 @@ As the name suggests it's a wallpaper app to view and set the wallpapers on your
   
 ## Screenshots
 
-<img src="https://github.com/abhinav78910/Fire_Wallpapers/blob/master/screenshots/ss1.jpg?raw=true" width="210">|
-<img src="https://github.com/abhinav78910/Fire_Wallpapers/blob/master/screenshots/ss2.jpg?raw=true" width="210">|
-<img src="https://github.com/abhinav78910/Fire_Wallpapers/blob/master/screenshots/ss3.jpg?raw=true" width="210">|
-<img src="https://github.com/abhinav78910/Fire_Wallpapers/blob/master/screenshots/ss4.jpg?raw=true" width="210">|
+<img src="https://github.com/abhinav78910/Fire_Wallpapers/blob/master/screenshots/ss1.jpeg?raw=true" width="210">|
+<img src="https://github.com/abhinav78910/Fire_Wallpapers/blob/master/screenshots/ss2.jpeg?raw=true" width="210">|
+<img src="https://github.com/abhinav78910/Fire_Wallpapers/blob/master/screenshots/ss3.jpeg?raw=true" width="210">|
+<img src="https://github.com/abhinav78910/Fire_Wallpapers/blob/master/screenshots/ss4.jpeg" width="210">|
 
 # Project Created & Maintained By
 ### Abhinav

@@ -9,17 +9,17 @@ As the name suggests it's a wallpaper app to view and set the wallpapers on your
 
 # App preview 
 <p align="center">
-<img align="left"  src="https://github.com/abhinav78910/Fire_Wallpapers/blob/master/screenshots/vid1.gif" width="220" height="460"  />|
-  <img src="https://github.com/abhinav78910/Fire_Wallpapers/blob/master/screenshots/vid2.gif" width="220" height="460" />|
+<img align="left"  src="https://github.com/abhinav78910/Fire_Wallpapers/blob/master/screenshots/vid1.gif" width="220" height="460"  />
+  <img src="https://github.com/abhinav78910/Fire_Wallpapers/blob/master/screenshots/vid2.gif" width="220" height="460" />
  <img align="right"  src="https://github.com/abhinav78910/Fire_Wallpapers/blob/master/screenshots/vid3.gif" width="220" height="460"  />
   </p>
   
 ## Screenshots
 
-<img src="https://github.com/abhinav78910/Fire_Wallpapers/blob/master/screenshots/ss1.jpg" width="210">|
-<img src="https://github.com/abhinav78910/Fire_Wallpapers/blob/master/screenshots/ss2.jpg" width="210">|
-<img src="https://github.com/abhinav78910/Fire_Wallpapers/blob/master/screenshots/ss3.jpg" width="210">|
-<img src="https://github.com/abhinav78910/Fire_Wallpapers/blob/master/screenshots/ss4.jpg" width="210">|
+<img src="https://github.com/abhinav78910/Fire_Wallpapers/blob/master/screenshots/ss1.jpg?raw=true" width="210">|
+<img src="https://github.com/abhinav78910/Fire_Wallpapers/blob/master/screenshots/ss2.jpg?raw=true" width="210">|
+<img src="https://github.com/abhinav78910/Fire_Wallpapers/blob/master/screenshots/ss3.jpg?raw=true" width="210">|
+<img src="https://github.com/abhinav78910/Fire_Wallpapers/blob/master/screenshots/ss4.jpg?raw=true" width="210">|
 
 # Project Created & Maintained By
 ### Abhinav

@@ -21,6 +21,10 @@ As the name suggests it's a wallpaper app to view and set the wallpapers on your
 <img src="https://github.com/abhinav78910/Fire_Wallpapers/blob/master/screenshots/ss3.jpeg?raw=true" width="210">|
 <img src="https://github.com/abhinav78910/Fire_Wallpapers/blob/master/screenshots/ss4.jpeg" width="210">|
 
+## Found this project useful? 
+
+If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
+
 # Project Created & Maintained By
 ### Abhinav
 **Android Developer**  #Android Developer, #First_Kotlin_App, #30_Days_Of_Kotlin_by_Google

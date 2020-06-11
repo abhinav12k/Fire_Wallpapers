@@ -7,6 +7,10 @@ As the name suggests it's a wallpaper app to view and set the wallpapers on your
 * Dark Mode
 * Easy to use
 
+# Download Link 
+Get apk from<a href="
+https://github.com/abhinav78910/Fire_Wallpapers/blob/master/app/release/Fire%20Wallpapers.apk" target="_blank">here</a>
+
 # App preview 
 <p align="center">
 <img align="left"  src="https://github.com/abhinav78910/Fire_Wallpapers/blob/master/screenshots/vid1.gif" width="220" height="460"  />

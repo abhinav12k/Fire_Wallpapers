@@ -1,4 +1,7 @@
 # Fire_Wallpapers
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a1755e51838143468ea618ed75e682ab)](https://app.codacy.com/gh/abhinav78910/Fire_Wallpapers?utm_source=github.com&utm_medium=referral&utm_content=abhinav78910/Fire_Wallpapers&utm_campaign=Badge_Grade)
+
 As the name suggests it's a wallpaper app to view and set the wallpapers on your device. Make your homescreen elegant from the beautiful collection of wallpapers inside the app.
 
 # Features:

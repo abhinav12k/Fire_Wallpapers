@@ -1,8 +1,8 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a1755e51838143468ea618ed75e682ab)](https://app.codacy.com/gh/abhinav78910/Fire_Wallpapers?utm_source=github.com&utm_medium=referral&utm_content=abhinav78910/Fire_Wallpapers&utm_campaign=Badge_Grade)
-[![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/abhinav78910/Fire_Wallpapers/blob/master/LICENSE)
-![GitHub followers](https://img.shields.io/github/followers/abhinav78910?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/abhinav78910/Fire_Wallpapers?style=social)
-![GitHub forks](https://img.shields.io/github/forks/abhinav78910/Fire_Wallpapers?style=social)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a1755e51838143468ea618ed75e682ab)](https://app.codacy.com/gh/abhinav78910/Fire_Wallpapers?utm_source=github.com&utm_medium=referral&utm_content=abhinav12k/Fire_Wallpapers&utm_campaign=Badge_Grade)
+[![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/abhinav12k/Fire_Wallpapers/blob/master/LICENSE)
+![GitHub followers](https://img.shields.io/github/followers/abhinav12k?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/abhinav12k/Fire_Wallpapers?style=social)
+<!-- ![GitHub forks](https://img.shields.io/github/forks/abhinav12k/Fire_Wallpapers?style=social) -->
 
 # Fire Wallpapers
 As the name suggests it's a wallpaper app to view and set the wallpapers on your device. Make your homescreen elegant from the beautiful collection of wallpapers inside the app.
